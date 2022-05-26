@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <character name="base_character" level="0">
+        <attribute name="Agility" abv="Ag" default="1">
+            <skill name="Athletics" default="1" ></skill>
+            <skill name="Boating" default="0" ></skill>
+            <skill name="Driving" default="0" ></skill>
+            <skill name="Fighting" default="0" ></skill>
+            <skill name="Piloting" default="0" ></skill>
+            <skill name="Riding" default="0" ></skill>
+            <skill name="Shooting" default="0" ></skill>
+            <skill name="Stealth" default="1" ></skill>
+            <skill name="Thievery" default="0" ></skill>
+        </attribute>
+        <attribute name="Smarts" abv="Sm" default="1">
+            <skill name="Academics" default="0" ></skill>
+            <skill name="Battle" default="0" ></skill>
+            <skill name="Common Knowledge" default="1" ></skill>
+            <skill name="Electronics" default="0" ></skill>
+            <skill name="Gambling" default="0" ></skill>
+            <skill name="Hacking" default="0" ></skill>
+            <skill name="Healing" default="0" ></skill>
+            <skill name="Language" default="0" ></skill>
+            <skill name="Notice" default="1" ></skill>
+            <skill name="Occult" default="0" ></skill>
+            <skill name="Psionics" default="0" ></skill>
+            <skill name="Repair" default="0" ></skill>
+            <skill name="Research" default="0" ></skill>
+            <skill name="Science" default="0" ></skill>
+            <skill name="Spellcasting" default="0" ></skill>
+            <skill name="Survival" default="0" ></skill>
+            <skill name="Taunt" default="0" ></skill>
+            <skill name="Weird Science" default="0" ></skill>
+        </attribute>
+        <attribute name="Spirit" abv="Sp" default="1">
+            <skill name="Faith" default="0" ></skill>
+            <skill name="Focus" default="0" ></skill>
+            <skill name="Intimidation" default="0" ></skill>
+            <skill name="Performance" default="0" ></skill>
+            <skill name="Persuasion" default="1" ></skill>
+        </attribute>
+        <attribute name="Strength" abv="St" default="1"></attribute>
+        <attribute name="Vigor" abv="Vi" default="1"></attribute>
+    </character>
+</resources>

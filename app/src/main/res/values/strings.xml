@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Make SWADE</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_create_character">Create Character</string>
+    <string name="tab_text_1">Info</string>
+    <string name="tab_text_2">Attributes</string>
+    <string name="tab_text_3">Skills</string>
+    <string name="tab_text_4">Other</string>
+    <string name="label_name">Name:</string>
+    <string name="label_level">Level:</string>
+    <string name="label_picture">Image:</string>
+    <string name="prompt_picture">Tab to add image</string>
+    <string name="characters_header">Characters</string>
+    <string name="label_description">Description:</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="name">Name</string>
+    <string name="level">Level</string>
+    <string name="feature_coming_soon">Feature coming soon...</string>
+    <string name="upload_picture">Select Image</string>
+    <string name="save_character">Save Character</string>
+    <string name="points_remaining">Points Remaining</string>
+    <string name="attr_pts_label">Attribute Points</string>
+    <string name="skill_pts_label">Skill Points</string>
+    <string name="hind_pts_label">Hindrance Points</string>
+    <string name="Attributes">Attributes:</string>
+    <string name="Skills">Skills</string>
+    <string name="Hindrances">Hindrances</string>
+    <string name="Edges">Edges</string>
+    <string name="Edges_and_hindrances">Edges and Hindrances</string>
+    <string name="add_prompt">Add:</string>
+    <string name="add_edge_btn">Edge</string>
+    <string name="add_major_btn">Major Hindrance</string>
+    <string name="add_minor_btn">Minor Hindrance</string>
+    <string name="insufficient_pts">Insufficient Points</string>
+</resources>
